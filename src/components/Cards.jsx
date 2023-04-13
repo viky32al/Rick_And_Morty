@@ -1,3 +1,4 @@
+
 import Card from './Card';
 
 export default function Cards({ characters, onClose }) {
